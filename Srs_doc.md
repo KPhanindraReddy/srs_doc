@@ -1,8 +1,8 @@
-# 📑 SRS Document: Chatbot for Mental Health Support Using NLP
+#  SRS Document: Chatbot for Mental Health Support Using NLP
 
 ---
 
-## 📘 Table of Contents
+##  Table of Contents
 | Section | Title | Page |
 |---------|-------|------|
 | 1 | Introduction | 1 |
@@ -169,7 +169,7 @@ MHC is a **web & mobile chatbot application** that integrates with existing heal
 
 ---
 
-## 📚 Appendix
+##  Appendix
 
 ### Appendix A: Glossary  
 - **MHC**: Mental Health Chatbot  
